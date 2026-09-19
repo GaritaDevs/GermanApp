@@ -4,7 +4,7 @@
 
 ## About
 
-<img alt= "aboutpage" src="./wireframes/about.png">
+<img alt= "about page" src="./wireframes/About.png">
 
 ## Add Vocabulary
 
@@ -12,7 +12,7 @@
 
 ## Vocabulary List
 
-<img alt="vocabulary list" src="./wireframes/vocabularyList.png">
+<img alt="vocabulary list" src="./wireframes/Vocabulary.png">
 
 ## Sing in
 
@@ -20,8 +20,7 @@
 
 ## Sign up
 
-<img alt="Sign up page" src="./wireframes/signUp.png">
-
+<img alt="Sign up page" src="./wireframes/Signup.png">
 ## Flash Card
 
 <img alt="Flash card" src="./wireframes/flashCard.png">
