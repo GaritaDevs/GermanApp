@@ -4,10 +4,13 @@ Learning German can be challenging because of the different grammatical cases, a
 
 
 ## Project Technologies/Techniques
+-JAVA
+-
 
 ## Design
-- User Stories
-- Screen Design
+- [User Stories](./DesignDocuments/userStories.md)
+- [Screen Design](./DesignDocuments/screenDesign.md)
 
 
 ## Documentation
+- [Weekly Reflections](./ProjectPlan.md)
