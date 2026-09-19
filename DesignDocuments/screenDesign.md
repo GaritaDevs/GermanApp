@@ -23,4 +23,4 @@
 <img alt="Sign up page" src="./wireframes/Signup.png">
 ## Flash Card
 
-<img alt="Flash card" src="./wireframes/flashCard.png">
+<img alt="Flash card" src="./wireframes/flashCardAnswer.png">

@@ -22,4 +22,4 @@ Learning German can be challenging because of the different grammatical cases, a
 
 
 ## Documentation
-- [Weekly Reflections](./ProjectPlan.md)
+- [Weekly Reflections](./DesignDocuments/weeklyReflections.md)
