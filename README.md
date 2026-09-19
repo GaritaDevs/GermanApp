@@ -4,7 +4,28 @@ Learning German can be challenging because of the different grammatical cases, a
 
 
 ## Project Technologies/Techniques
--JAVA
+- Security/Authentication
+AWS Cognito
+- Database
+MySQL 8.x
+- ORM Framework
+Hibernate Version TBD
+- Dependency Management
+Maven
+- Web Services consumed using Java
+TBD
+- CSS
+Bootstrap or Materialize
+- Data Validation
+Bootstrap Validator for front end
+Explore Hibernate Validator?
+- Logging
+Log4J2
+- Hosting
+AWS
+- Unit Testing
+JUnit tests to cover all testable logic
+IDE: IntelliJ IDEA
 -
 
 ## Design
